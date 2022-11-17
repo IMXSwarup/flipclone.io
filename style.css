@@ -142,6 +142,16 @@ body{
     border-radius: 0;
 }
 
+.sales1{
+    cursor: pointer;
+    height: 20em;
+    padding: 0em 1em;
+    margin: .1em .2em;
+    width: 13em;
+    box-sizing: border-box;
+    border: 1;
+    border: 10px solid #ff0000;
+}
 .sales{
     cursor: pointer;
     height: 15em;
@@ -150,6 +160,7 @@ body{
     width: 13em;
     box-sizing: border-box;
     border: 1;
+    border: 10px solid #ffffff00;
 }
 
 .sales img{
