@@ -149,7 +149,7 @@ body{
     margin: .1em .2em;
     width: 13em;
     box-sizing: border-box;
-    border: 0;
+    border: 1;
 }
 
 .sales img{
